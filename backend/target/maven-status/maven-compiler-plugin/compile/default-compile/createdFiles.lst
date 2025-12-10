@@ -1,0 +1,6 @@
+com/rgmoveis/backend/config/CorsConfig.class
+com/rgmoveis/backend/controller/ContactController.class
+com/rgmoveis/backend/model/ContactDTO.class
+com/rgmoveis/backend/service/ContactService.class
+com/rgmoveis/backend/BackendApplication.class
+com/rgmoveis/backend/service/ContactService$1.class
